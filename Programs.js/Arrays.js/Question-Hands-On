@@ -1,0 +1,17 @@
+Hands-On Practice
+
+Create an array of numbers and use map() to square each element.
+
+Given an array of numbers, use filter() to keep only even numbers.
+
+Use reduce() to find the sum of all elements in an array.
+
+Find the first number greater than 10 in an array using find().
+
+Combine filter() and map() to double all odd numbers in an array.
+
+Given an array of names, convert all names to uppercase using map().
+
+Use reduce() to find the largest number in an array.
+
+Given an array of objects with name and age, use map() to get an array of names of people older than 18.

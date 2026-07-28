@@ -1,0 +1,36 @@
+Arrays
+
+A1 :- Find largest and smallest element
+A2 :-Reverse an array
+A3 :-Find sum and average of elements
+A4 :-Linear search and binary search
+A5 :-Check if array is sorted
+A6 :-Find second largest element
+A7 :-Find duplicate elements
+A8 :-Remove duplicates from array
+A9 :-Find missing number from 1 to N
+A10 :-Merge two sorted arrays
+A11:-Rotate array left and right
+A12:-Find common elements in two arrays
+A13 :-Move all zeros to end
+A14:-Find intersection and union of two arrays
+A15 :-Find element appearing only once
+
+Strings
+
+Reverse a string without reverse()
+Check palindrome string
+Count vowels and consonants
+Count occurrences of a character
+Remove whitespaces from a string
+Convert to upper/lowercase without built-in
+Find first non-repeating character
+Check if two strings are anagrams
+Remove duplicate characters
+Reverse each word in a sentence
+Find the longest word in a string
+Find frequency of each character
+Check if string contains only digits
+Find duplicate characters
+Count words in a string
+Replace a word without replace()
